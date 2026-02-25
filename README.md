@@ -1,4 +1,3 @@
-# MosaicRemoverExtension (White_1.0 / BepInEx)
 
 日本語 / 中文 / English
 
